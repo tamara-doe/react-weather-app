@@ -1,3 +1,6 @@
+body {
+  padding-top: 30px;
+}
 .Weather {
   border: 1px solid #dadde1;
   padding: 16px;
